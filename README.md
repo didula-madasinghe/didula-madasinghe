@@ -34,24 +34,3 @@
 ---
 
 <div align="center">
-
-# 🧑‍💻 `whoami`
-
-### `Software Engineering Student`
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47c6c42-9a18-4c9e-8c7c-1f5b9c2b5c3f.gif" width="100">
-
-</div>
-
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│  👨‍💻 Name          : Didula Madasinghe                      │
-│  🎓 Role          : Software Engineering Student            │
-│  🌍 Country       : Sri Lanka 🇱🇰                            │
-│  💻 Focus         : Software Development                     │
-│  🧠 Mindset       : Learn • Build • Improve                 │
-│  🚀 Goal          : Become a Professional Software Engineer │
-│  🌱 Status        : Currently Learning & Building           │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
