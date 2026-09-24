@@ -1,376 +1,361 @@
 <div align="center">
 
-# 👋 Hi, I'm **Didula Madasinghe**
+<!-- ===================================================== -->
+<!--                       HERO                            -->
+<!-- ===================================================== -->
 
-### 🎓 Software Engineering with AI Student
-
-### 🌱 Learning • Exploring • Building • Growing
-
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;I'm+learning+Software+Engineering+%F0%9F%92%BB;Exploring+Artificial+Intelligence+%F0%9F%A4%96;Building+my+skills+step+by+step+%F0%9F%8C%B1;My+journey+starts+here+%F0%9F%9A%80" />
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:06b6d4&height=220&section=header&text=Didula%20Madasinghe&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20with%20AI&descAlignY=60&descSize=20&animation=fadeIn"
+/>
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-Hi! I'm **Didula Madasinghe**, a passionate learner currently studying **Software Engineering with AI at iCET**.
-
-I'm at the beginning of my journey in the world of software development, and I'm currently working on building a strong foundation in programming, software engineering, web development, artificial intelligence, databases, and cloud technologies.
-
-I believe that becoming a great software engineer is a continuous learning process. I'm not an expert yet, and I'm still discovering how things work, experimenting with new ideas, solving problems, and learning from my mistakes.
-
-I'm using GitHub as a place to **learn, practice, experiment, and document my progress**. Every small project and every new concept I understand is another step forward in my journey.
-
-My goal is to gradually turn the knowledge I gain into practical projects and eventually build useful, meaningful, and innovative software solutions.
-
-For me, this journey is not about knowing everything from the beginning. It's about staying curious, learning consistently, improving every day, and never being afraid to start from zero.
-
-🌱 **Currently learning.**
-💻 **Currently building.**
-🚀 **Currently growing.**
-
-> **This is just the beginning of my journey.**
-
----
-
-## 🧠 My Learning Mindset
-
-<div align="center">
-
-### 📚 LEARN
-
-↓
-
-### 🧪 PRACTICE
-
-↓
-
-### 🛠️ BUILD
-
-↓
-
-### 🐛 MAKE MISTAKES
-
-↓
-
-### 🔍 UNDERSTAND
-
-↓
-
-### 🚀 IMPROVE
-
-↓
-
-### 🔁 REPEAT
-
-</div>
-
----
-
-## 🌱 What I'm Exploring
-
-I'm currently learning about and working towards developing my knowledge in:
-
-<table align="center">
-<tr>
-<td align="center" width="200">
-
-### 💻
-
-**Software Engineering**
-
-Learning how software is designed, developed and maintained.
-
-</td>
-
-<td align="center" width="200">
-
-### 👨‍💻
-
-**Programming**
-
-Building programming fundamentals and logical thinking.
-
-</td>
-
-<td align="center" width="200">
-
-### 🌐
-
-**Web Development**
-
-Exploring how modern web applications are created.
-
-</td>
-</tr>
-
-<tr>
-<td align="center" width="200">
-
-### 🤖
-
-**Artificial Intelligence**
-
-Beginning my journey into AI and intelligent systems.
-
-</td>
-
-<td align="center" width="200">
-
-### 🗄️
-
-**Databases**
-
-Learning how applications store and manage data.
-
-</td>
-
-<td align="center" width="200">
-
-### ☁️
-
-**Cloud Computing**
-
-Exploring cloud technologies and modern infrastructure.
-
-</td>
-</tr>
-</table>
-
-> 🚧 These are areas I'm **currently learning and exploring**, not skills I consider myself an expert in.
-
----
-
-## 🗺️ My Learning Roadmap
-
-```text
-                    🌱 STARTING MY JOURNEY
-                              │
-                              ▼
-                  ┌─────────────────────┐
-                  │ Programming Basics  │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │ Problem Solving     │
-                  └──────────┬──────────┘
-                             │
-                             ▼
-                  ┌─────────────────────┐
-                  │ Software Engineering│
-                  └──────────┬──────────┘
-                             │
-              ┌──────────────┼──────────────┐
-              ▼              ▼              ▼
-        🌐 Web Dev       🗄️ Databases    ☁️ Cloud
-              │              │              │
-              └──────────────┼──────────────┘
-                             ▼
-                    🤖 Artificial Intelligence
-                             │
-                             ▼
-                       🚀 REAL PROJECTS
-                             │
-                             ▼
-                  👨‍💻 SOFTWARE ENGINEER
-```
-
----
-
-## 🚀 My Learning Journey
-
-<div align="center">
-
-| 🌱 Stage | 🎯 Focus                           |
-| :------: | :--------------------------------- |
-|    01    | 📚 Learn the fundamentals          |
-|    02    | 🧠 Develop problem-solving skills  |
-|    03    | 💻 Practice programming            |
-|    04    | 🛠️ Build small projects           |
-|    05    | 🌐 Explore software development    |
-|    06    | 🤖 Explore Artificial Intelligence |
-|    07    | ☁️ Learn Cloud technologies        |
-|    08    | 🚀 Build real-world projects       |
-
-</div>
-
----
-
-## 🎯 My Goals
-
-* 📚 Build a strong foundation in Software Engineering
-* 💻 Become confident with programming
-* 🧠 Improve my problem-solving skills
-* 🌐 Learn modern web development
-* 🤖 Explore Artificial Intelligence
-* 🗄️ Understand databases
-* ☁️ Learn Cloud Computing
-* 🛠️ Build real-world projects
-* 🌍 Contribute to open-source projects
-* 🚀 Grow into a professional Software Engineer
-
----
-
-## 🔭 What I Want to Build
-
-As I continue learning, I want to work towards creating:
-
-```text
-🌐 Modern Web Applications
-
-🤖 AI-powered Applications
-
-☁️ Cloud-based Solutions
-
-🧩 Real-world Software Projects
-
-🔧 Developer Tools
-
-💡 Technology that solves real problems
-```
-
----
-
-## 📈 My Progress
-
-<div align="center">
-
-### 🌱 Beginner → 🚀 Developer
-
-**Building my foundation one step at a time.**
+<img
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Software+Engineering+with+AI+%F0%9F%A4%96;Aspiring+Software+Engineer+%F0%9F%92%BB;Full-Stack+%26+AI+Enthusiast+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Creating+%E2%80%A2+Growing+%F0%9F%8C%B1"
+  alt="Typing Animation"
+/>
+
+<br><br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=didula-madasinghe&label=PROFILE+VIEWS&color=06b6d4&style=for-the-badge"
+/>
+
+<br><br>
+
+<!-- ===================================================== -->
+<!--                       ABOUT                           -->
+<!-- ===================================================== -->
+
+<h2>👋 Hello, I'm Didula</h2>
+
+<p>
+🎓 <b>Software Engineering with AI Student</b><br>
+💻 Aspiring Software Engineer<br>
+🤖 Exploring Artificial Intelligence<br>
+🌐 Learning Full-Stack Development<br>
+☁️ Exploring Cloud & DevOps<br>
+🚀 Turning ideas into real-world projects
+</p>
 
 <br>
 
-`████░░░░░░░░░░░░░░░░`
+<!-- ===================================================== -->
+<!--                    SOCIAL LINKS                       -->
+<!-- ===================================================== -->
 
-### 📚 Learning
-
-> Every line of code is one step forward.
-
-</div>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🐍 Contribution Journey
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
-
----
-
-## 💭 My Philosophy
-
-<div align="center">
-
-### **"I don't need to know everything today.**
-
-### **I just need to learn something today."** 🌱
-
-<br>
-
-`LEARN` → `PRACTICE` → `BUILD` → `FAIL` → `LEARN` → `IMPROVE`
-
-</div>
-
----
-
-## 📚 Learning in Public
-
-I believe that the best way to learn is to **build and share the journey**.
-
-This GitHub profile will grow together with me.
-
-Today it may contain small experiments and learning projects.
-
-Tomorrow it may contain complete applications and real-world solutions.
-
-One day, this profile will be a record of how I started from the beginning and grew into a Software Engineer.
-
----
-
-## 🌟 A Few Words About My Journey
-
-<div align="center">
-
-> 🌱 **Starting from the basics.**
->
-> 💡 **Curious about how technology works.**
->
-> 🧠 **Learning something new every day.**
->
-> 🛠️ **Building step by step.**
->
-> 🚀 **Working towards becoming a Software Engineer.**
-
-</div>
-
----
-
-## 🤝 Let's Connect
-
-<div align="center">
-
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://github.com/didula-madasinghe">
+<img src="https://img.shields.io/badge/GitHub-020617?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
+<a href="mailto:didulamadasinghe@gmail">
+<img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+</div>
+
+---
+
+# 🧠 What I'm Learning
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 💻 Programming
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" />
+
+<br><br>
+
+Programming Fundamentals<br>
+Problem Solving<br>
+Algorithms<br>
+Data Structures
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌐 Web
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs" />
+
+<br><br>
+
+Frontend<br>
+Backend<br>
+REST APIs<br>
+Full-Stack Development
+
+</td>
+
+<td align="center" width="25%">
+
+### 🗄️ Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+
+<br><br>
+
+SQL<br>
+NoSQL<br>
+Data Modeling<br>
+Database Design
+
+</td>
+
+<td align="center" width="25%">
+
+### ☁️ Cloud
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github" />
+
+<br><br>
+
+Cloud Computing<br>
+DevOps<br>
+Containers<br>
+Deployment
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🤖 AI & Technology
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Artificial_Intelligence-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Generative_AI-06B6D4?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloud_Computing-0EA5E9?style=for-the-badge&logo=icloud&logoColor=white"/>
+
+</div>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages
+
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
+
+<br><br>
+
+### 🌐 Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,nextjs" />
+
+<br><br>
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql,firebase" />
+
+<br><br>
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions" />
+
+<br><br>
+
+### 🤖 AI Tools
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+</div>
+
+---
+
+# 🚀 What I'm Building
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+## 🌐 Full-Stack Applications
+
+Building modern applications with:
+
+- Responsive UI
+- REST APIs
+- Authentication
+- Databases
+- Scalable architecture
+
+</td>
+
+<td width="50%" align="center">
+
+## 🤖 AI-Powered Applications
+
+Exploring:
+
+- AI APIs
+- Machine Learning
+- Generative AI
+- AI Automation
+- Intelligent Applications
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+## ☁️ Cloud Projects
+
+Learning:
+
+- Cloud Infrastructure
+- Deployment
+- Docker
+- Linux
+- CI/CD
+
+</td>
+
+<td width="50%" align="center">
+
+## 🧪 Experimental Projects
+
+Experimenting with:
+
+- New Technologies
+- AI Tools
+- Developer Tools
+- Automation
+- Creative Ideas
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# 🎯 My Goals
+<br>
+
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;Turn+Ideas+Into+Real+Projects+%F0%9F%9A%80;Build+Intelligent+%26+Scalable+Solutions+%F0%9F%A4%96;Become+a+Professional+Software+Engineer+%F0%9F%92%BB"
+/>
+
+</div>
+
+---
+
+# 📊 GitHub Statistics
+<div align="center">
+<br><br>
+<img
+  src="https://streak-stats.demolab.com?user=didula-madasinghe&theme=tokyonight&hide_border=true&background=020617"
+  alt="GitHub Streak"
+/>
+
+</div>
+
+---
+
+# 🐍 Contribution Journey
+
+<div align="center">
+
+<img
+  src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+# 🌌 Currently Exploring
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI-8B5CF6?style=for-the-badge&logo=openai&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Full--Stack-06B6D4?style=for-the-badge&logo=react&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Cloud-0EA5E9?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/DevOps-6366F1?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Machine_Learning-7C3AED?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+
+</div>
+
+---
+
+# 💡 My Mindset
+
+<div align="center">
+
+### 🌱 Learn Something New
+
+⬇️
+
+### 💻 Build What I Learn
+
+⬇️
+
+### 🧪 Experiment & Break Things
+
+⬇️
+
+### 🔧 Fix & Improve
+
+⬇️
+
+### 🚀 Build Something Real
+
 </div>
 
 ---
 
 <div align="center">
 
-### 🌱 Learning Today
-
-### 💻 Building Tomorrow
-
-### 🚀 Growing Every Day
+# 🚀 Let's Build Something Amazing
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+<img
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Code+%F0%9F%92%BB;AI+%F0%9F%A4%96;Cloud+%E2%98%81%EF%B8%8F;Innovation+%F0%9F%9A%80;The+Journey+Has+Just+Begun+%F0%9F%8C%B1"
+/>
+
+<br><br>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:020617&height=140&section=footer"
+/>
 
 </div>
-
-<!--
-════════════════════════════════════════════════════════════════════
-                    KEEP LEARNING 🚀
-════════════════════════════════════════════════════════════════════
--->
