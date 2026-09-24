@@ -5,7 +5,7 @@
 <!-- ===================================================== -->
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:0f172a,100:06b6d4&height=220&section=header&text=Didula%20Madasinghe&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20with%20AI&descAlignY=60&descSize=20&animation=fadeIn"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001e,50:1b305b,100:0000ff&height=220&section=header&text=Didula%20Madasinghe&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineering%20with%20AI&descAlignY=60&descSize=20&animation=fadeIn"
 />
 
 <br>
@@ -355,7 +355,7 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&
 <br><br>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:020617&height=140&section=footer"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0d001e,50:1b305b,100:0000ff&height=140&section=footer"
 />
 
 </div>
