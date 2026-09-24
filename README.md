@@ -11,7 +11,7 @@
 <br>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=22D3EE&center=true&vCenter=true&width=700&lines=Software+Engineering+with+AI+%F0%9F%A4%96;Aspiring+Software+Engineer+%F0%9F%92%BB;Full-Stack+%26+AI+Enthusiast+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Creating+%E2%80%A2+Growing+%F0%9F%8C%B1"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=900&color=00FF00&center=true&vCenter=true&width=700&lines=Software+Engineering+with+AI+%F0%9F%A4%96;Aspiring+Software+Engineer+%F0%9F%92%BB;Full-Stack+%26+AI+Enthusiast+%F0%9F%9A%80;Learning+%E2%80%A2+Building+%E2%80%A2+Creating+%E2%80%A2+Growing+%F0%9F%8C%B1"
   alt="Typing Animation"
 />
 
@@ -266,7 +266,7 @@ Experimenting with:
 <br>
 
 <img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;Turn+Ideas+Into+Real+Projects+%F0%9F%9A%80;Build+Intelligent+%26+Scalable+Solutions+%F0%9F%A4%96;Become+a+Professional+Software+Engineer+%F0%9F%92%BB"
+src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=fff600&center=true&vCenter=true&width=750&lines=Learn+%E2%86%92+Build+%E2%86%92+Experiment+%E2%86%92+Improve;Turn+Ideas+Into+Real+Projects+%F0%9F%9A%80;Build+Intelligent+%26+Scalable+Solutions+%F0%9F%A4%96;Become+a+Professional+Software+Engineer+%F0%9F%92%BB"
 />
 
 </div>
